@@ -1,31 +1,30 @@
 |-- backend
-|   |-- node_modules
-|   |-- src
-|   |   |-- config
-|   |   |   |-- .env.example
-|   |   |   |-- configDB.js
-|   |   |   |-- configEnv.js
-|   |   |   |-- initSetup.js
-|   |   |-- constants
-|   |   |-- controllers
-|   |   |-- middlewares
-|   |   |   |-- authentication.middleware.js
-|   |   |   |-- authorization.middleware.js
-|   |   |-- models
-|   |   |-- routes
-|   |   |   |-- auth.routes.js
-|   |   |   |-- index.routes.js
-|   |   |   |-- user.routes.js
-|   |   |-- schema
-|   |   |-- services
-|   |   |-- utils
-|   |   |-- index.js
-|   |-- .gitignore
-|   |-- package-lock.json
-|   |-- package.json
-|   |-- README.md
+| |-- node_modules
+| |-- src
+| | |-- config
+| | | |-- .env.example
+| | | |-- configDB.js
+| | | |-- configEnv.js
+| | | |-- initSetup.js
+| | |-- constants
+| | |-- controllers
+| | |-- middlewares
+| | | |-- authentication.middleware.js
+| | | |-- authorization.middleware.js
+| | |-- models
+| | |-- routes
+| | | |-- auth.routes.js
+| | | |-- index.routes.js
+| | | |-- user.routes.js
+| | |-- schema
+| | |-- services
+| | |-- utils
+| | |-- index.js
+| |-- .gitignore
+| |-- package-lock.json
+| |-- package.json
+| |-- README.md
 |-- nodemon.json
-
 
 ## Explicaciones Detalladas
 
